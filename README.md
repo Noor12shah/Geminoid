@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/327d88cc201f42ba52edf.jpg" alt="Javes" border"5"/>
+<img src="https://telegra.ph/file/327d88cc201f42ba52edf.jpg" alt="Javes" style="width:150px"/>
 
 
 🥳🥳⛷️ What is 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝 ?
