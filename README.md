@@ -28,7 +28,6 @@ cd $RK && rm -rf string_session.py && apt update -y && apt upgrade -y && apt ins
 
 5.now open your browser that you used before to create heroku account paste this link
 
-https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Frekcah-pavi%2Fjaves&template=https%3A%2F%2Fgithub.com%2Frekcah-pavi%2Fjaves
 
 
 
