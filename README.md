@@ -11,7 +11,7 @@
 
 
 ## Doc for make your own 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝
-Tap <a href="https://telegra.ph/HOW-MAKE-JAVESTELEGRAM-USER-BOT-07-05">This link</a> 
+Tap <a href=https://telegra.ph/٠-ⁱ-ᵃᵐ-ᵇˡᵃᶜᵏᵖⁱⁿᵏ-ᵏⁱˡˡᵉʳ-09-10-2">This link</a> 
 
 🥳🥳⛷️ then install termux from playstore
 
