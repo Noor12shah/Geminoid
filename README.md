@@ -1,6 +1,6 @@
 
 ## What is 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝 ?
-Javes is a telgram userbot that running in python3 + Telethon ,  Born from <a href="https://github.com/AvinashReddy3108/PaperplaneExtended">PaperplaneExtended</a> 
+Javes is a telgram userbot that running in python3 + Telethon  
 
 
 ## Tap this img to deploy 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝 in heroku
