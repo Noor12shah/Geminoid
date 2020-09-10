@@ -12,7 +12,7 @@ Tap <a href="https://telegra.ph/HOW-MAKE-JAVESTELEGRAM-USER-BOT-07-05">This link
 
 2. Then install termux from playstore
 
-https://play.google.com/store/apps/details?id=com.termux
+Tap <a href="https://play.google.com/store/apps/details?id=com.termux">termux link</a>
 
 
 
