@@ -1,22 +1,23 @@
 
-## What is 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝 ?
+🥳🥳⛷️ What is 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝 ?
+
 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝 is a telgram userbot that running in python3 + Telethon  
 
 
-## Tap this img to deploy 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝 in heroku
+🥳🥳⛷️ Tap this img to deploy 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝 in heroku
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Frekcah-pavi%2Fjaves&template=https%3A%2F%2Fgithub.com%2Frekcah-pavi%2Fjaves"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Javes" /></a></p>
 
 
 ## Doc for make your own 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝
 Tap <a href="https://telegra.ph/HOW-MAKE-JAVESTELEGRAM-USER-BOT-07-05">This link</a> 
 
-2. Then install termux from playstore
+🥳🥳⛷️ then install termux from playstore
 
 Tap <a href="https://play.google.com/store/apps/details?id=com.termux">termux link</a>
 
 
 
-3. copy this code full and past it to termux && hit enter
+3. copy this code full and past it to termux && hit enter 👇👇
 
  cd $RK && rm -rf string_session.py && apt update -y && apt upgrade -y && apt install -y git wget python && wget https://raw.githubusercontent.com/rekcah-pavi/javes/master/string_session.py && pip install telethon && clear && python string_session.py
 
