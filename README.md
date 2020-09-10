@@ -10,9 +10,6 @@
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Frekcah-pavi%2Fjaves&template=https%3A%2F%2Fgithub.com%2Frekcah-pavi%2Fjaves"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Javes" /></a></p>
 
 
-## Doc for make your own 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝
-Tap <a href=https://telegra.ph/٠-ⁱ-ᵃᵐ-ᵇˡᵃᶜᵏᵖⁱⁿᵏ-ᵏⁱˡˡᵉʳ-09-10-2">This link</a> 
-
 🥳🥳⛷️ then install termux from playstore
 
 Tap <a href="https://play.google.com/store/apps/details?id=com.termux">termux link</a>
