@@ -1,5 +1,5 @@
 
-## What is Javes?
+## What is 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝 ?
 Javes is a telgram userbot that running in python3 + Telethon ,  Born from <a href="https://github.com/AvinashReddy3108/PaperplaneExtended">PaperplaneExtended</a> 
 
 
@@ -12,8 +12,8 @@ Tap <a href="https://telegra.ph/HOW-MAKE-JAVESTELEGRAM-USER-BOT-07-05">This link
 
 
 
-## Our support channel
-Join <a href="https://t.me/javes05">Channel
+## Our support group
+Join <a href="https://t.me/joinchat/UoyjBRhwULsBhScU2B7mBw">group
 
 
 
