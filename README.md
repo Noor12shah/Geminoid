@@ -1,6 +1,6 @@
 
 ## What is 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝 ?
-Javes is a telgram userbot that running in python3 + Telethon  
+𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝 is a telgram userbot that running in python3 + Telethon  
 
 
 ## Tap this img to deploy 𝐆𝐞𝐦𝐢𝐧𝐨𝐢𝐝 in heroku
@@ -18,8 +18,7 @@ Tap <a href="https://play.google.com/store/apps/details?id=com.termux">termux li
 
 3. copy this code full and past it to termux && hit enter
 
-cd $RK && rm -rf string_session.py && apt update -y && apt upgrade -y && apt install -y git wget python && wget https://raw.githubusercontent.com/rekcah-pavi/javes/master/string_session.py && pip install telethon && clear && python string_session.py
-
+ 
 
 
 4. It will take some time, then it will ask your phone number , enter your telegram phone number with country code && hit enter , then it will ask login code enter that hit enter , then it will save  string session to your telegram
