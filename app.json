@@ -1,7 +1,7 @@
 {
-  "name": "Javes",
-  "description": "Javes is a Telegram userbot that running on Python , It help you to manage your telegram easily ",
-  "logo": "https://i.imgur.com/ATSG4w3.png",
+  "name": "Geminoid",
+  "description": "Geminoid is a Telegram userbot that running on Python , It help you to manage your telegram easily ",
+  "logo": "https://telegra.ph/file/327d88cc201f42ba52edf.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://t.me/javes05",
-  "website": "https://t.me/javes05",
-  "success_url": "https://t.me/rekcah05",
+  "repository": "https://github.com/Noor12shah",
+  "website": "https://github.com/Noor12shah",
+  "success_url": "https://github.com/Noor12shah",
   "stack": "container",
   "env": {
     "TELEGRAM_API_KEY": {
